@@ -1,0 +1,24 @@
+﻿P0,P1,Weight
+sinigama,akurala beach,5.1
+sinigama,hikkaduwa,2.4
+galle_fort,hikkaduwa,18.5
+galle_fort,bonavista,3.3
+bonavista,yatagala_temple,3.5
+bonavista,jungle_beach,2
+jungle_beach,yatagala_temple,4.2
+jungle_beach,unawatuna,3.5
+unawatuna,bonavista,2.8
+unawatuna,dalawella_beach,3.7
+dalawella_beach,yatagala_temple,3.5
+dalawella_beach,mihiripenna,1
+mihiripenna,yatagala_temple,4.1
+mihiripenna,thalpe,2
+thalpe,koggala,2.5
+kandy_station,peradeniya_garden,6
+kandy_station,hanthana,7.8
+kandy_station,dalada_maligawa,1.2
+kandy_station,udawatta_kele,3.6
+peradeniya_garden,ambuluwawa,20.6
+peradeniya_garden,nelligala,10
+dalada_maligawa,udawatta_kele,1.2
+udawatta,nelligala,14.4

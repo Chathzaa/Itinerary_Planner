@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Source.cpp
+C:\Users\Chathumi\Downloads\1_4597_4667_4775\trip\Map\Source.cpp(252,19): warning C4566: character represented by universal-character-name '\u2011' cannot be represented in the current code page (1252)
+  Map.cpp
+  Generating Code...
+C:\Users\Chathumi\Downloads\1_4597_4667_4775\trip\Map\Source.cpp(847): warning C4717: 'favTrip': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\Chathumi\Downloads\1_4597_4667_4775\trip\Map\Source.cpp(909): warning C4715: 'get_Contact': not all control paths return a value
+  Map.vcxproj -> C:\Users\Chathumi\Downloads\1_4597_4667_4775\trip\x64\Debug\Map.exe

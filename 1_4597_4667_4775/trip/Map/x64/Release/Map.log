@@ -1,0 +1,10 @@
+﻿  Map.cpp
+  Plan_A_Trip.cpp
+  Source.cpp
+C:\Users\veron\OneDrive\Desktop\Trip Planner Project\Map Final\Map\Source.cpp(95,19): warning C4566: character represented by universal-character-name '\u2011' cannot be represented in the current code page (1252)
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\veron\OneDrive\Desktop\Trip Planner Project\Map Final\Map\Source.cpp(752): warning C4715: 'get_Contact': not all control paths return a value
+  All 722 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Map.vcxproj -> C:\Users\veron\OneDrive\Desktop\Trip Planner Project\Map Final\x64\Release\Map.exe
